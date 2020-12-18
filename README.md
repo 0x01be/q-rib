@@ -15,7 +15,11 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 -->
-# CIIC Harness  
+# q-rib
+
+A RISC-V Processor instrumented for learning implemented in the user project area of the CIIC Harness (aka [Caravel](https://github.com/efabless/caravel)).
+
+[Rudder](https://github.com/0x01be/rudder) is used and improved while developing q-rib to improve tooling exprerience for aspiring ASIC designers.
 
 A template SoC for Google SKY130 free shuttles. It is still WIP. The current SoC architecture is given below.
 
